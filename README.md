@@ -10,7 +10,7 @@ I'm Manan Arora , a passionate software developer and open-source enthusiast.
 
 ### Skills
 
-- 💻 Programming Languages: JavaScript, Python, C , C++ 
+- 💻 Programming Languages: HTML , CSS , JavaScript, Python, C , C++ 
 
 ### Contact Me
 
