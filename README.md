@@ -2,8 +2,6 @@
 
 I'm Manan Arora , a passionate software developer and open-source enthusiast.
 
-![Profile Picture](https://avatars.githubusercontent.com/u/144525586?s=400&u=fee15e8b20035e512b90a87fac216c2d71e508ae&v=4)
-
 ### About Me
 
 - 🌱 I'm currently learning and exploring new technologies .
