@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Manan Arora , a passionate software developer and open-source enthusiast.
+I'm Manan Arora , a passionate software developer and open-source enthusiast 
 
 ### About Me
 
@@ -10,12 +10,14 @@ I'm Manan Arora , a passionate software developer and open-source enthusiast.
 
 ### Skills
 
-- 💻 Programming Languages: HTML , CSS , JavaScript, Python, C , C++ 
+- Programming Languages:  C , C++ , SQL
+- Frontend Development: HTML5, CSS3, Javascript, React.js, Tailwind-CSS
+- Software & Utilities: GitHub, Figma, Adobe Photoshop, Digital Ocean
 
 ### Contact Me
 
 - 📧 Email: mananarorawork@gmail.com
-- 🐦 Twitter: [Manancodes](https://twitter.com/Manancodes)
+- 🐦 Twitter: [Manancode](https://twitter.com/Manancode)
 
 ### Let's Collaborate
 
